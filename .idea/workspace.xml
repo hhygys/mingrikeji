@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1189a1a5-3b01-4594-ae63-ee676f9bc0e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/controllers/FrontController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/controllers/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/controllers/VideoController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/database/seeds/UserTableSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/lang/ch_zn/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/lang/ch_zn/reminders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/lang/ch_zn/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/views/admin/user/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/views/admin/user/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/views/admin/user/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/views/admin/video/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/admin/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/admin/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/admin/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/admin/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/admin/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/blue_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/chat_pop_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/export_pop_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/export_tip_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/icon_weixin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/last_time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/last_time_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/last_time_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/nav_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/nav_li_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/online_classing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/sahre_ewm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/images/title_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/test_images/e1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/test_images/e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/test_images/e3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/test_images/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/test_images/past_left_video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/public/assets/front/test_images/r1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/FrontController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/NewsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/database/seeds/NewsTableSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/database/seeds/UserTableSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/News.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/news/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/news/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/news/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/news/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/user/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/user/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/user/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin/user/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/adminindex.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/front/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/front/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/front/content.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/front/newsdetail.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/front/newslist.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layout/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/css/amazeui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/css/amazeui.flat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/css/amazeui.flat.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/css/amazeui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/app-icon72x72@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/admin-chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/admin-firefox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/admin-ie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/admin-opera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/admin-safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/adminPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/blogPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/landing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/landingPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/loginPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/examples/sidebarPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/i/startup-640x1096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/admin-news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/amazeui.ie8polyfill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/amazeui.ie8polyfill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/amazeui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/amazeui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/amazeui.widgets.helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/amazeui.widgets.helper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/handlebars.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/css/container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/css/fwslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/css/screen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/css/sucaijiayuan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/close_im.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/nav-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/news.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/notice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/pic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/pic4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/pic5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/toTop-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/img/weixing-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/js/fwslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/js/sucaijiayuan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/assets/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wenjuan2021/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/mingrikeji.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/mingrikeji.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/WEB-INF/lib/json.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/WEB-INF/lib/mysql-connector-java-8.0.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/admin-index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/admin-news.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/admin-user.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/css/amazeui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/css/amazeui.flat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/css/amazeui.flat.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/css/amazeui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/app-icon72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/admin-chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/admin-firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/admin-ie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/admin-opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/admin-safari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/adminPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/blogPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/landing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/landingPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/loginPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/examples/sidebarPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/i/startup-640x1096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/admin-news.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/amazeui.ie8polyfill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/amazeui.ie8polyfill.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/amazeui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/amazeui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/amazeui.widgets.helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/amazeui.widgets.helper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/handlebars.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/admin/logout.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/about.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/css/container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/css/fwslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/css/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/css/sucaijiayuan.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/close_im.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/nav-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/news.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/notice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/pic1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/pic2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/pic3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/pic4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/pic5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/right.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/toTop-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/img/weixing-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/js/fwslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/js/sucaijiayuan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/assets/js/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/contact.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/content.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/newsdetail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/front/newslist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/AddNewsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/AddUserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/AdminMainServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/DelNewsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/DelUserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/EditNewsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/EditUserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/FindNewsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/FindUserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/ForgetServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/JingjiServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/NewsDetailServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/NewsListServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/NewsMainServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/NormalMainServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/UserMainServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/bll/ZhengzhiServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/dao/NewsDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/dbutil/DBUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/dbutil/db-config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/idao/INews.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/idao/IUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/model/News.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/build/classes/com/mvc/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/AddNewsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/AddUserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/AdminMainServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/DelNewsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/DelUserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/EditNewsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/EditUserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/FindNewsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/FindUserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/ForgetServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/JingjiServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/NewsDetailServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/NewsListServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/NewsMainServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/NormalMainServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/UserMainServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/bll/ZhengzhiServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/dao/NewsDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/dbutil/DBUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/dbutil/db-config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/idao/INews.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/idao/IUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/model/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gysMyMVC11-30/src/com/mvc/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/user/add.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/views/admin/adminindex.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/user/delete.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/views/admin/experts/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/user/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Doregie lecture hall/php/app/views/admin/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/app/views/user/delete.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/app/views/user/delete.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wenjuan2021/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../wenjuan2021/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wenjuan2021/php/.idea/php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../wenjuan2021/php/.idea/php.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wenjuan2021/php/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../wenjuan2021/php/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wenjuan2021/php/app/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wenjuan2021/php/app/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wenjuan2021/php/app/controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wenjuan2021/php/app/controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wenjuan2021/php/app/views/common/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../wenjuan2021/php/app/views/common/layout.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/d11wtq/boris" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/patchwork/utf8" />
+      <path value="$PROJECT_DIR$/vendor/jeremeamia/superclosure" />
+      <path value="$PROJECT_DIR$/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1rn8aUtkYh8yhfP9Z7fP0sZ76B9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1189a1a5-3b01-4594-ae63-ee676f9bc0e6" name="Default Changelist" comment="" />
+      <created>1619600556987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619600556987</updated>
+      <workItem from="1619600559509" duration="13170000" />
+      <workItem from="1619661597827" duration="3933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
